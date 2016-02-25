@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/info_fr1"
+        android:id="@+id/textView3"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_margin="20dp" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/get_text1"
+                android:id="@+id/get_text1"
+                android:padding="10dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView2"
+                android:src="@drawable/avto_preview"
+                android:scaleType="fitStart"
+                android:layout_gravity="center"
+                android:padding="10dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/get_text2"
+                android:id="@+id/get_text2"
+                android:padding="10dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView3"
+                android:layout_weight="1"
+                android:src="@drawable/peshkom_preview"
+                android:scaleType="fitStart"
+                android:layout_gravity="center_horizontal"
+                android:padding="10dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
