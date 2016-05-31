@@ -1,4 +1,4 @@
-package nortti.ru.myapplication.activities;
+package nortti.ru.dogshelter.activities;
 
 import android.animation.ObjectAnimator;
 import android.animation.PropertyValuesHolder;
@@ -20,8 +20,8 @@ import com.oguzdev.circularfloatingactionmenu.library.FloatingActionButton;
 import com.oguzdev.circularfloatingactionmenu.library.FloatingActionMenu;
 import com.oguzdev.circularfloatingactionmenu.library.SubActionButton;
 
-import nortti.ru.myapplication.PlaceholderFragment;
-import nortti.ru.myapplication.R;
+import nortti.ru.dogshelter.PlaceholderFragment;
+import nortti.ru.dogshelter.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package nortti.ru.myapplication;
+package nortti.ru.dogshelter;
 
 import android.content.Context;
 import android.graphics.Canvas;

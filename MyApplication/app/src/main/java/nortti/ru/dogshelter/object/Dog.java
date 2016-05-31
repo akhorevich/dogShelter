@@ -1,4 +1,4 @@
-package nortti.ru.myapplication.object;
+package nortti.ru.dogshelter.object;
 
 import android.graphics.Bitmap;
 

@@ -1,15 +1,15 @@
-package nortti.ru.myapplication.activities;
+package nortti.ru.dogshelter.activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import nortti.ru.myapplication.R;
+import nortti.ru.dogshelter.R;
 
-public class HowHelpActivity extends AppCompatActivity {
+public class HowGetActivity extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.how_help);
+        setContentView(R.layout.how_get);
 
     }
 }

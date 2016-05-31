@@ -1,4 +1,4 @@
-package nortti.ru.myapplication;
+package nortti.ru.dogshelter;
 
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import nortti.ru.myapplication.object.Dog;
+import nortti.ru.dogshelter.object.Dog;
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder> {
     private static final String TAG = "CustomAdapter";
