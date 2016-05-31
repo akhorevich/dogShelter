@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "614898458606",
+    "firebase_url": "https://deductive-mix-127217.firebaseio.com",
+    "project_id": "deductive-mix-127217",
+    "storage_bucket": "deductive-mix-127217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614898458606:android:1e31fc0fdb275cc5",
+        "android_client_info": {
+          "package_name": "nortti.ru.dogshelter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614898458606-u3sl1oa1jblod8jtt5u7qv5rssgh3ijm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQ2C2pq8Ovcpva-NtO2TYUd-7ySeKPvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
