@@ -18,4 +18,5 @@
     <string name="sber"><b>Карта Тинькофф:</b> 5244 6873 7897 3217</string>
     <string name="qiwi"><b>Номер QIWI-кошелька:</b> 968-875-50-65</string>
     <string name="ya"><b>Номер ЯК:</b> 410011096898317</string>
+    <string name="site">http://www.vao-priut.org</string>
 </resources>
